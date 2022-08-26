@@ -1,3 +1,6 @@
+//set 01
+//Hridey Verma
+//RollNo.-2010990301
 //print all non repeated integer in min time complexity
 
 #include <bits/stdc++.h>
